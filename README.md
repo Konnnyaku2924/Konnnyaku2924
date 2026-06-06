@@ -15,3 +15,8 @@
 - _**soldering**_ --半田付けは大好きです。経験上細微サイズは2012です。
 
 
+### GitHub Stats
+![Konnnyaku2924's stats](https://github-readme-stats.vercel.app/api?username=Konnnyaku2924&show_icons=true&theme=radical)
+
+
+
